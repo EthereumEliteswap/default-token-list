@@ -998,5 +998,13 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+  },
+  {
+    "name": "Elite Swap",
+    "address": "0x380291A9A8593B39f123cF39cc1cc47463330b1F",
+    "symbol": "ELT",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://eliteswap.io/static/media/logo.f4a2a2f5.png"
   }
 ]
