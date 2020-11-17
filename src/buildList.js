@@ -5,7 +5,7 @@ const ropsten = require('./tokens/ropsten.json');
 module.exports = function buildList() {
   const parsed = version.split('.');
   return {
-    'name': 'Elite Swap Default List',
+    'name': 'Default Token List',
     'timestamp': (new Date().toISOString()),
     'version': {
       'major': +parsed[ 0 ],
@@ -20,7 +20,7 @@ module.exports = function buildList() {
     ],
     tokens: [
       ...mainnet,
-      ...ropsten,
+      ...ropsten
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
