@@ -1,6 +1,6 @@
 {
   "name": "@eliteswap/default-token-list",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "description": "◦ The Elite Swap default token list",
   "main": "build/eliteswap-default.tokenlist.json",
   "scripts": {
@@ -28,8 +28,8 @@
   },
   "homepage": "https://github.com/EthereumEliteswap/default-token-list#readme",
   "devDependencies": {
-    "@ethersproject/address": "^5.0.2",
     "@eliteswap/token-lists": "^1.0.0",
+    "@ethersproject/address": "^5.0.2",
     "ajv": "^6.12.3",
     "chai": "^4.2.0",
     "mocha": "^8.0.1",
