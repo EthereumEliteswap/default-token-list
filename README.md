@@ -1,7 +1,7 @@
 # @eliteswap/default-token-list
 
 [![Tests](https://github.com/EthereumEliteswap/token-lists/workflows/Tests/badge.svg)](https://github.com/EthereumEliteswap/default-token-list/actions?query=workflow%3ATests)
-[![npm](https://img.shields.io/npm/v/@eliteswap/default-token-list)](https://unpkg.com/@eliteswap/default-token-list@latest/)
+[![npm](https://img.shields.io/npm/v/@eliteswap/default-token-list)](https://unpkg.com/@eliteswap/default-token-list@1.6.1/)
 
 This NPM module and GitHub repo contains the default token list used in the Elite Swap interface.
 
