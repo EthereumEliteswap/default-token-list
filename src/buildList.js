@@ -1,7 +1,5 @@
 const { version } = require('../package.json');
-const mainnet = require('./tokens/mainnet.json');
 const bscMainnet = require('./tokens/bsc_mainnet.json');
-const ropsten = require('./tokens/ropsten.json');
 const bscTestnet = require('./tokens/bsc_testnet.json');
 
 module.exports = function buildList() {
@@ -15,16 +13,14 @@ module.exports = function buildList() {
       'patch': +parsed[ 2 ]
     },
     'tags': {},
-    'logoURI': 'https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/master/src/assets/ethereum/0x380291A9A8593B39f123cF39cc1cc47463330b1F/ELT_logo.png',
+    'logoURI': 'https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/master/src/assets/bsc/0x380291A9A8593B39f123cF39cc1cc47463330b1F/ELTB_logo.png',
     'keywords': [
       'eliteswap',
       'default'
     ],
     tokens: [
-      ...mainnet,
       ...bscMainnet,
-      ...bscTestnet,
-      ...ropsten
+      ...bscTestnet
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
