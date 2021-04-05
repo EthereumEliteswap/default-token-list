@@ -1,7 +1,7 @@
 {
   "name": "@eliteswap/default-token-list",
-  "version": "1.6.0",
-  "description": "◦ The Elite Swap default token list",
+  "version": "2.6.1",
+  "description": "◦ The Elite Swap default token list for Binance Smart Chain",
   "main": "build/eliteswap-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
