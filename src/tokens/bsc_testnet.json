@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Wrapped BNB",
+    "address": "0xaE8E19eFB41e7b96815649A6a60785e1fbA84C1e",
+    "symbol": "WBNB",
+    "decimals": 18,
+    "chainId": 97,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png"
+  },
+  {
+    "name": "ELTB Token",
+    "address": "0xbbAA1C83ea09b5cE0868E0171fE1898Cf7c3c291",
+    "symbol": "ELTB",
+    "decimals": 18,
+    "chainId": 97,
+    "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/master/src/assets/bsc_testnet/0xbbAA1C83ea09b5cE0868E0171fE1898Cf7c3c291/ELTB_logo.png"
+  }
+]
