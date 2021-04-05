@@ -1,6 +1,6 @@
 {
   "name": "@eliteswap/default-token-list",
-  "version": "1.5.1",
+  "version": "1.6.0",
   "description": "◦ The Elite Swap default token list",
   "main": "build/eliteswap-default.tokenlist.json",
   "scripts": {

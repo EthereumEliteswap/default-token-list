@@ -1,0 +1,410 @@
+[
+  {
+    "name": "ETH Token",
+    "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+    "symbol": "ETH",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+  },
+  {
+    "name": "Wrapped BNB",
+    "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "symbol": "WBNB",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png"
+  },
+  {
+    "name": "BUSD-T Stablecoin",
+    "address": "0x55d398326f99059fF775485246999027B3197955",
+    "symbol": "BUSD-T",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/master/src/assets/bsc/0x55d398326f99059fF775485246999027B3197955/BUSD-T_logo.png"
+  },
+  {
+    "name": "Polkadot Token",
+    "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
+    "symbol": "DOT",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/master/src/assets/bsc/0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402/DOT_logo.png"
+  },
+  {
+    "name": "Cardano Token",
+    "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+    "symbol": "ADA",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/master/src/assets/bsc/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47/ADA_logo.png"
+  },
+  {
+    "name": "Ripple Token",
+    "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
+    "symbol": "XRP",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/master/src/assets/bsc/0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE/XRP_logo.png"
+  },
+  {
+    "name": "Litecoin Token",
+    "address": "0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
+    "symbol": "LTC",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/master/src/assets/bsc/0x4338665CBB7B2485A8855A139b75D5e34AB0DB94/LTC_logo.png"
+  },
+  {
+    "name": "Bitcoin Cash Token",
+    "address": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
+    "symbol": "BCH",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/master/src/assets/bsc/0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf/BCH_logo.png"
+  },
+  {
+    "name": "Dogecoin Token",
+    "address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+    "symbol": "DOGE",
+    "decimals": 8,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/master/src/assets/bsc/0xbA2aE424d960c26247Dd6c32edC70B295c744C43/DOGE_logo.png"
+  },
+  {
+    "name": "EOS Token",
+    "address": "0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6",
+    "symbol": "EOS",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/master/src/assets/bsc/0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6/EOS_logo.png"
+  },
+  {
+    "name": "Cosmos Token",
+    "address": "0x0Eb3a705fc54725037CC9e008bDede697f62F335",
+    "symbol": "ATOM",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/master/src/assets/bsc/0x0Eb3a705fc54725037CC9e008bDede697f62F335/ATOM_logo.png"
+  },
+  {
+    "name": "Tezos Token",
+    "address": "0x16939ef78684453bfDFb47825F8a5F714f12623a",
+    "symbol": "XTZ",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/master/src/assets/bsc/0x16939ef78684453bfDFb47825F8a5F714f12623a/XTZ_logo.png"
+  },
+  {
+    "name": "BUSD Stablecoin",
+    "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+    "symbol": "BUSD",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/master/src/assets/bsc/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/BUSD_logo.png"
+  },
+  {
+    "name": "Venus BUSD",
+    "address": "0x95c78222B3D6e262426483D42CfA53685A67Ab9D",
+    "symbol": "vBUSD",
+    "decimals": 8,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/master/src/assets/bsc/0x95c78222B3D6e262426483D42CfA53685A67Ab9D/vBUSD_logo.png"
+  },
+  {
+    "name": "BAND Token",
+    "address": "0xAD6cAEb32CD2c308980a548bD0Bc5AA4306c6c18",
+    "symbol": "BAND",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55/logo.png"
+  },
+  {
+    "name": "Basic Attention Token",
+    "address": "0x101d82428437127bF1608F699CD651e6Abf9766E",
+    "symbol": "BAT",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/master/src/assets/bsc/0x101d82428437127bF1608F699CD651e6Abf9766E/BAT_logo.png"
+  },
+  {
+    "name": "Compound",
+    "address": "0x52CE071Bd9b1C4B00A0b92D298c512478CaD67e8",
+    "symbol": "COMP",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/master/src/assets/bsc/0x52CE071Bd9b1C4B00A0b92D298c512478CaD67e8/COMP_logo.png"
+  },
+  {
+    "name": "Dai Stablecoin",
+    "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+    "symbol": "DAI",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+  },
+  {
+    "name": "Venus DAI",
+    "address": "0x334b3eCB4DCa3593BCCC3c7EBD1A1C1d1780FBF1",
+    "symbol": "vDAI",
+    "decimals": 8,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/master/src/assets/bsc/0x334b3eCB4DCa3593BCCC3c7EBD1A1C1d1780FBF1/vDAI_logo.png"
+  },
+  {
+    "name": "Venus DOT",
+    "address": "0x1610bc33319e9398de5f57B33a5b184c806aD217",
+    "symbol": "vDOT",
+    "decimals": 8,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/master/src/assets/bsc/0x1610bc33319e9398de5f57B33a5b184c806aD217/vDOT_logo.png"
+  },
+  {
+    "name": "Venus",
+    "address": "0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63",
+    "symbol": "XVS",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/master/src/assets/bsc/0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63/XVS_logo.png"
+  },
+  {
+    "name": "Venus BETH",
+    "address": "0x972207A639CC1B374B893cc33Fa251b55CEB7c07",
+    "symbol": "vBETH",
+    "decimals": 8,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/master/src/assets/bsc/0x972207A639CC1B374B893cc33Fa251b55CEB7c07/vBETH_logo.png"
+  },
+  {
+    "name": "VAI Stablecoin",
+    "address": "0x4BD17003473389A42DAF6a0a729f6Fdb328BbBd7",
+    "symbol": "VAI",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/master/src/assets/bsc/0x4BD17003473389A42DAF6a0a729f6Fdb328BbBd7/VAI_logo.png"
+  },
+  {
+    "name": "Venus LINK",
+    "address": "0x650b940a1033B8A1b1873f78730FcFC73ec11f1f",
+    "symbol": "vLINK",
+    "decimals": 8,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/master/src/assets/bsc/0x650b940a1033B8A1b1873f78730FcFC73ec11f1f/vLINK_logo.png"
+  },
+  {
+    "name": "BAKE Token",
+    "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+    "symbol": "BAKE",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/master/src/assets/bsc/0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5/BAKE_logo.png"
+  },
+  {
+    "name": "PancakeSwap",
+    "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+    "symbol": "Cake",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/master/src/assets/bsc/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/Cake_logo.png"
+  },
+  {
+    "name": "IoTeX Network",
+    "address": "0x9678E42ceBEb63F23197D726B29b1CB20d0064E5",
+    "symbol": "IOTX",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6fB3e0A217407EFFf7Ca062D46c26E5d60a14d69/logo.png"
+  },
+  {
+    "name": "ChainLink Token",
+    "address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
+    "symbol": "LINK",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
+  },
+  {
+    "name": "Maker",
+    "address": "0x5f0Da599BB2ccCfcf6Fdfd7D81743B6020864350",
+    "symbol": "MKR",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2/logo.png"
+  },
+  {
+    "name": "PAX",
+    "address": "0xb7F8Cd00C5A06c0537E2aBfF0b58033d02e5E094",
+    "symbol": "PAX",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8E870D67F660D95d5be530380D0eC0bd388289E1/logo.png"
+  },
+  {
+    "name": "Paxos Gold",
+    "address": "0x7950865a9140cB519342433146Ed5b40c6F210f7",
+    "symbol": "PAXG",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x45804880De22913dAFE09f4980848ECE6EcbAf78/logo.png"
+  },
+  {
+    "name": "Synthetix Network Token",
+    "address": "0x9Ac983826058b8a9C7Aa1C9171441191232E8404",
+    "symbol": "SNX",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F/logo.png"
+  },
+  {
+    "name": "Swipe",
+    "address": "0x47BEAd2563dCBf3bF2c9407fEa4dC236fAbA485A",
+    "symbol": "SXP",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8CE9137d39326AD0cD6491fb5CC0CbA0e089b6A9/logo.png"
+  },
+  {
+    "name": "USDCoin",
+    "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+    "symbol": "USDC",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "name": "Venus USDT",
+    "address": "0xfD5840Cd36d94D7229439859C0112a4185BC0255",
+    "symbol": "vUSDT",
+    "decimals": 8,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/master/src/assets/bsc/0xfD5840Cd36d94D7229439859C0112a4185BC0255/vUSDT_logo.png"
+  },
+  {
+    "name": "Binance Beacon ETH",
+    "address": "0x250632378E573c6Be1AC2f97Fcdf00515d0Aa91B",
+    "symbol": "BETH",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/master/src/assets/bsc/0x250632378E573c6Be1AC2f97Fcdf00515d0Aa91B/BETH_logo.png"
+  },
+  {
+    "name": "Venus ETH",
+    "address": "0xf508fCD89b8bd15579dc79A6827cB4686A3592c8",
+    "symbol": "vETH",
+    "decimals": 8,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/master/src/assets/bsc/0xf508fCD89b8bd15579dc79A6827cB4686A3592c8/vETH_logo.png"
+  },
+  {
+    "name": "Venus USDC",
+    "address": "0xecA88125a5ADbe82614ffC12D0DB554E2e2867C8",
+    "symbol": "vUSDC",
+    "decimals": 8,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/master/src/assets/bsc/0xecA88125a5ADbe82614ffC12D0DB554E2e2867C8/vUSDC_logo.png"
+  },
+  {
+    "name": "BTCB Token",
+    "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+    "symbol": "BTCB",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/master/src/assets/bsc/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c/BTCB_logo.png"
+  },
+  {
+    "name": "Venus BTC",
+    "address": "0x882C173bC7Ff3b7786CA16dfeD3DFFfb9Ee7847B",
+    "symbol": "vBTC",
+    "decimals": 8,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/master/src/assets/bsc/0x882C173bC7Ff3b7786CA16dfeD3DFFfb9Ee7847B/vBTC_logo.png"
+  },
+  {
+    "name": "BTCST Token",
+    "address": "0x78650B139471520656b9E7aA7A5e9276814a38e9",
+    "symbol": "BTCST",
+    "decimals": 17,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/master/src/assets/bsc/0x78650B139471520656b9E7aA7A5e9276814a38e9/BTCST_logo.png"
+  },
+  {
+    "name": "Zilliqa Token",
+    "address": "0xb86AbCb37C3A4B64f74f59301AFF131a1BEcC787",
+    "symbol": "ZIL",
+    "decimals": 12,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/master/src/assets/bsc/0xb86AbCb37C3A4B64f74f59301AFF131a1BEcC787/ZIL_logo.png"
+  },
+  {
+    "name": "Zcash Token",
+    "address": "0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb",
+    "symbol": "ZEC",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/master/src/assets/bsc/0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb/ZEC_logo.png"
+  },
+  {
+    "name": "Ethereum Classic Token",
+    "address": "0x3d6545b08693daE087E957cb1180ee38B9e3c25E",
+    "symbol": "ETC",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/master/src/assets/bsc/0x3d6545b08693daE087E957cb1180ee38B9e3c25E/ETC_logo.png"
+  },
+  {
+    "name": "UST Token",
+    "address": "0x23396cF899Ca06c4472205fC903bDB4de249D6fC",
+    "symbol": "UST",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/master/src/assets/bsc/0x23396cF899Ca06c4472205fC903bDB4de249D6fC/UST_logo.png"
+  },
+  {
+    "name": "Uniswap",
+    "address": "0xBf5140A22578168FD562DCcF235E5D43A02ce9B1",
+    "symbol": "UNI",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+  },
+  {
+    "name": "ELTB Token",
+    "address": "0x380291A9A8593B39f123cF39cc1cc47463330b1F",
+    "symbol": "ELTB",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/master/src/assets/bsc/0x380291A9A8593B39f123cF39cc1cc47463330b1F/ELTB_logo.png"
+  },
+  {
+    "name": "Ontology Token",
+    "address": "0xFd7B3A77848f1C2D67E05E54d78d174a0C850335",
+    "symbol": "ONT",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/master/src/assets/bsc/0xFd7B3A77848f1C2D67E05E54d78d174a0C850335/ONT_logo.png"
+  },
+  {
+    "name": "YFI Token",
+    "address": "0x88f1A5ae2A3BF98AEAF342D26B30a79438c9142e",
+    "symbol": "YFI",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/master/src/assets/bsc/0x88f1A5ae2A3BF98AEAF342D26B30a79438c9142e/YFI_logo.png"
+  },
+  {
+    "name": "ANKR",
+    "address": "0xf307910A4c7bbc79691fD374889b36d8531B08e3",
+    "symbol": "ANKR",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/master/src/assets/bsc/0xf307910A4c7bbc79691fD374889b36d8531B08e3/ANKR_logo.png"
+  },
+  {
+    "name": "BCHA Token",
+    "address": "0xD475c9c934DCD6d5f1cAC530585aa5ba14185b92",
+    "symbol": "BCHA",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/master/src/assets/bsc/0xD475c9c934DCD6d5f1cAC530585aa5ba14185b92/BCHA_logo.png"
+  }
+]
