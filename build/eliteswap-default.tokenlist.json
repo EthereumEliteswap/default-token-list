@@ -1,10 +1,10 @@
 {
   "name": "Elite Swap Default Token List",
-  "timestamp": "2021-04-06T06:19:06.739Z",
+  "timestamp": "2021-04-06T06:23:38.194Z",
   "version": {
     "major": 1,
     "minor": 6,
-    "patch": 1
+    "patch": 3
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/master/src/assets/ethereum/0x380291A9A8593B39f123cF39cc1cc47463330b1F/ELT_logo.png",
