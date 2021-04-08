@@ -1,10 +1,10 @@
 {
   "name": "Elite Swap Default Token List",
-  "timestamp": "2021-04-08T21:58:41.328Z",
+  "timestamp": "2021-04-08T23:00:28.834Z",
   "version": {
     "major": 2,
     "minor": 6,
-    "patch": 4
+    "patch": 5
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/bsc/src/assets/bsc/0x380291A9A8593B39f123cF39cc1cc47463330b1F/ELTB_logo.png",
@@ -422,6 +422,30 @@
       "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/bsc/src/assets/bsc/0xb86AbCb37C3A4B64f74f59301AFF131a1BEcC787/ZIL_logo.png"
     },
     {
+      "name": "BTCB Token",
+      "address": "0x6ce8dA28E2f864420840cF74474eFf5fD80E65B8",
+      "symbol": "BTCB",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/bsc/src/assets/bsc/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c/BTCB_logo.png"
+    },
+    {
+      "name": "Binance USD",
+      "address": "0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/bsc/src/assets/bsc/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/BUSD_logo.png"
+    },
+    {
+      "name": "DAI Token",
+      "address": "0xEC5dCb5Dbf4B114C9d0F65BcCAb49EC54F6A0867",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    },
+    {
       "name": "ELTB Token",
       "address": "0xbbAA1C83ea09b5cE0868E0171fE1898Cf7c3c291",
       "symbol": "ELTB",
@@ -430,12 +454,44 @@
       "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/bsc/src/assets/bsc_testnet/0xbbAA1C83ea09b5cE0868E0171fE1898Cf7c3c291/ELTB_logo.png"
     },
     {
+      "name": "ETH Token",
+      "address": "0xd66c6B4F0be8CE5b39D52E0Fd1344c389929B378",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "USDC Token",
+      "address": "0x64544969ed7EBf5f083679233325356EbE738930",
+      "symbol": "USDC",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "name": "USDT Token",
+      "address": "0x337610d27c682E347C9cD60BD4b3b107C9d34dDd",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
       "name": "Wrapped BNB",
       "address": "0xaE8E19eFB41e7b96815649A6a60785e1fbA84C1e",
       "symbol": "WBNB",
       "decimals": 18,
       "chainId": 97,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png"
+    },
+    {
+      "name": "XRP",
+      "address": "0xa83575490D7df4E2F47b7D38ef351a2722cA45b9",
+      "symbol": "XRP",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/bsc/src/assets/bsc/0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE/XRP_logo.png"
     }
   ]
 }
