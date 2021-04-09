@@ -1,10 +1,10 @@
 {
   "name": "Elite Swap Default Token List",
-  "timestamp": "2021-04-08T23:00:28.834Z",
+  "timestamp": "2021-04-09T17:04:39.054Z",
   "version": {
     "major": 2,
     "minor": 6,
-    "patch": 5
+    "patch": 6
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/bsc/src/assets/bsc/0x380291A9A8593B39f123cF39cc1cc47463330b1F/ELTB_logo.png",
@@ -451,7 +451,7 @@
       "symbol": "ELTB",
       "decimals": 18,
       "chainId": 97,
-      "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/bsc/src/assets/bsc_testnet/0xbbAA1C83ea09b5cE0868E0171fE1898Cf7c3c291/ELTB_logo.png"
+      "logoURI": "https://raw.githubusercontent.com/EthereumEliteswap/default-token-list/bsc/src/assets/bsc/0x380291A9A8593B39f123cF39cc1cc47463330b1F/ELTB_logo.png"
     },
     {
       "name": "ETH Token",
